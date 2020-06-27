@@ -1,2 +1,2 @@
 # DnDDiceRoller
-dice roller for role palying games like DnD
+dice roller for role playing games like DnD
