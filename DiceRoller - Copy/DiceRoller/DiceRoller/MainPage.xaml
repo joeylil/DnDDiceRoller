@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DiceRoller.MainPage">
+
+    <Grid x:Name="mainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackLayout Orientation="Horizontal" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="3" MinimumHeightRequest="50" HorizontalOptions="FillAndExpand">
+            <Button x:Name="bonus"  Text="+"  FontSize="70" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Clicked="plusOne"/>
+            <Label x:Name="Total" Text="0"  FontSize="70" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" FontAttributes="Bold" TextColor="Black" HorizontalOptions="FillAndExpand"/>
+            <Button x:Name="penalty" Text="-" FontSize="70" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Clicked="minusOne"/>
+        </StackLayout>
+
+        <ScrollView Grid.Row="1" Grid.ColumnSpan="3">
+            <Label x:Name="diceRolls" Text="0" HorizontalTextAlignment="Center" FontSize="25"/>
+        </ScrollView>
+
+
+        <ImageButton x:Name="d2" Grid.Row="2" Grid.Column="0" Aspect="AspectFit" Clicked="RollD2"/>
+        <ImageButton x:Name="d3" Grid.Row="2" Grid.Column="1" Aspect="AspectFit" Clicked="RollD3"/>
+        <ImageButton x:Name="d4" Grid.Row="2" Grid.Column="2" Aspect="AspectFit" Clicked="RollD4"/>
+
+        <ImageButton x:Name="d6" Grid.Row="3" Grid.Column="0" Aspect="AspectFit" Clicked="RollD6"/>
+        <ImageButton x:Name="d8" Grid.Row="3" Grid.Column="1" Aspect="AspectFit" Clicked="RollD8"/>
+        <ImageButton x:Name="d10" Grid.Row="3" Grid.Column="2" Aspect="AspectFit" Clicked="RollD10"/>
+
+        <ImageButton x:Name="d12" Grid.Row="4" Grid.Column="0" Aspect="AspectFit" Clicked="RollD12"/>
+        <ImageButton x:Name="d20" Grid.Row="4" Grid.Column="1" Aspect="AspectFit" Clicked="RollD20"/>
+        <ImageButton x:Name="d100" Grid.Row="4" Grid.Column="2" Aspect="AspectFit" Clicked="RollD100"/>
+        
+        <Button x:Name="clear" Grid.Row="5"  Grid.Column="0" Grid.ColumnSpan="2" Text="Clear" FontSize="50" BackgroundColor="Beige" Clicked="Clear"/>
+        <Button x:Name="preferences" Text="Preferences" Grid.Row="5" Grid.Column="2" Clicked="Preferences" FontSize="40" FontAttributes="Bold"/>
+    </Grid>
+     
+</ContentPage>

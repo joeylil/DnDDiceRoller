@@ -1,0 +1,214 @@
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csproj.CoreCompileInputs.cache
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\Preferences.xaml.g.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csproj.CoreCompileInputs.cache
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d2.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d10.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d100.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d12.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d20.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d3.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d4.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d6.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d8.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d10.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d100.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d12.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d2.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d20.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d3.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d4.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d6.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d10.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d100.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d12.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d2.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d20.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d3.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d4.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d6.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d10.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d100.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d12.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d2.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d20.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d3.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d4.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d6.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\Preferences.xaml.g.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csproj.CoreCompileInputs.cache
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d10.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d10.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d100.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d12.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d2.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d20.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d3.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d4.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d6.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-blue-1d8.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d100.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d12.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d2.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d20.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d3.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d4.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d6.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-orange-1d8.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d10.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d100.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d12.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d2.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d20.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d3.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d4.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d6.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\Images\dice-pink-1d8.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.deps.json
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\ref\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\bin\Debug\netstandard2.0\DiceRoller.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.csprojAssemblyReference.cache
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\Preferences.xaml.g.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfoInputs.cache
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.AssemblyInfo.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\XamlC.stamp
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\ref\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller\obj\Debug\netstandard2.0\DiceRoller.pdb

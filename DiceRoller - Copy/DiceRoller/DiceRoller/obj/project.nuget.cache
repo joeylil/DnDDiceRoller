@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AhBx9yBskZj9ZxhNwhR5plzCRGYr4OgqjGeRaT3AnhTbOR15EyqVEyhLAlZf+FoMO8oEXa+LafHW8dj9G1q0gg==",
+  "success": true,
+  "projectFilePath": "G:\\tafe2020\\mobile apps\\DiceRoller - Copy\\DiceRoller\\DiceRoller\\DiceRoller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joeyl\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.4.0\\xam.plugin.simpleaudioplayer.1.4.0.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.essentials\\1.4.0-pre2\\xamarin.essentials.1.4.0-pre2.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.forms\\4.5.0.282-pre4\\xamarin.forms.4.5.0.282-pre4.nupkg.sha512"
+  ],
+  "logs": []
+}

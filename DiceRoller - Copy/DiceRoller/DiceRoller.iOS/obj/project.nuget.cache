@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYHNxkM0x963nWt3npoyMbHREXBTpzsjfjWaD0/fcuN1o7V5NyKb/GjTlYNMn9ldumKqPfD7Nv7Qd9LMFrY8Tg==",
+  "success": true,
+  "projectFilePath": "G:\\tafe2020\\mobile apps\\DiceRoller - Copy\\DiceRoller\\DiceRoller.iOS\\DiceRoller.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joeyl\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.4.0\\xam.plugin.simpleaudioplayer.1.4.0.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Joeyl\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Essentials from 1.4.0-pre2 to 1.3.1. Reference the package directly from the project to select a different version. \r\n DiceRoller.iOS -> DiceRoller -> Xamarin.Essentials (>= 1.4.0-pre2) \r\n DiceRoller.iOS -> Xamarin.Essentials (>= 1.3.1)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: Xamarin.Forms from 4.5.0.282-pre4 to 4.4.0.991640. Reference the package directly from the project to select a different version. \r\n DiceRoller.iOS -> DiceRoller -> Xamarin.Forms (>= 4.5.0.282-pre4) \r\n DiceRoller.iOS -> Xamarin.Forms (>= 4.4.0.991640)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\DiceRoller.UWP.csproj;x86

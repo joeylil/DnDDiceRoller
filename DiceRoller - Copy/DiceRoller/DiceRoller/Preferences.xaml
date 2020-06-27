@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DiceRoller.Preferences">
+    <ContentPage.Content>
+        <Grid x:Name="preferencesGrid">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="20*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <StackLayout Grid.Row="0" Grid.ColumnSpan="3" Spacing="0" >
+                <Label x:Name="titleText" Text="Preference" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" FontSize="30" TextColor="Black" HorizontalTextAlignment="Center"/>
+                <Label x:Name="audioText" Text="Audio" Margin="20,0,0,0" TextColor="Black" HorizontalOptions="Center"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label x:Name="soundText" Text="Sound:" Margin="20,5,0,0"/>
+                    <Switch x:Name="soundEnabled" Grid.Row="1" Grid.Column="1" Margin="10,0,0,0" Toggled="SoundSwitchToggled"/>
+                </StackLayout>
+                <Label x:Name="soundDescriptionText" Text="Select whether the application sound is on or off." Margin="20,0,0,0" FontSize="10"/>
+                
+            </StackLayout>
+            
+            <StackLayout Grid.Row="2" Grid.ColumnSpan="3" Spacing="0" Margin="0,30,0,0">
+                <Label x:Name="visualstext" Text="Visuals" Margin="20,0,0,0" TextColor="Black" HorizontalOptions="Center"/>
+                <Label x:Name="feedbackText" Text="Dice Roll Feedback Colour" HorizontalTextAlignment="Start" Margin="140,0,0,0"/>
+                <StackLayout Orientation="Horizontal" Margin="15,0,0,0">
+                    <StackLayout>
+                        <Label x:Name="criticalHit" HorizontalTextAlignment="Center" Text="Critical Hit"/>
+                        <Picker x:Name="critHitColour" Title="Select Colour for Critical Hit" ItemsSource="{Binding critColours}"/>
+                    </StackLayout>
+                    <StackLayout>
+                        <Label x:Name="criticalMiss" HorizontalTextAlignment="Center" Text="Critical Miss"/>
+                        <Picker x:Name="critMissColour" Title="Select Colour for Critical Miss" ItemsSource="{Binding critColours}"/>
+                    </StackLayout>
+                </StackLayout>
+
+
+                <Label x:Name="colourSchemeText" Text="Colour Scheme" HorizontalTextAlignment="Start" Margin="150,20,0,0"/>
+                <Picker x:Name="colourScheme" HorizontalOptions="Start" Title="Select Colour for Critical Hit" ItemsSource="{Binding schemeColours}" Margin="15,0,0,0"/>
+
+                <Label x:Name="colourTheme" Text="Colour Theme" HorizontalTextAlignment="Start" Margin="150,20,0,0"/>
+                <StackLayout Orientation="Horizontal" Margin="20,0,0,0">
+                    <Label x:Name="darkModeText" Text="Dark Mode:" Margin="0,5,0,0"/>
+                    <Switch x:Name="darkMode"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal">
+                    <Button x:Name="saveText" Text="Save" Margin="20,20,0,0" Clicked="Save"/>
+                    <Button x:Name="cancelText" Text="Cancel" Margin="20,20,0,0" Clicked="Cancel"/>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

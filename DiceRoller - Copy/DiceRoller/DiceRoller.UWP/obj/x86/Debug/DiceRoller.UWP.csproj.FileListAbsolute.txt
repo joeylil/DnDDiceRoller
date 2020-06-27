@@ -1,0 +1,590 @@
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+D:\C#\Mobile\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+C:\Users\Trainee\Desktop\Session 1\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CoreCompileInputs.cache
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+F:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+D:\tafe2020\mobile apps\DiceRoller\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CoreCompileInputs.cache
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Plugin.SimpleAudioPlayer.pri.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d2.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d10.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d100.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d12.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d20.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d3.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d4.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d6.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d8.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d10.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d100.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d12.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d2.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d20.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d3.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d4.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d6.png
+F:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d10.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d100.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d12.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d2.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d20.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d3.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d4.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d6.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d10.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d100.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d12.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d2.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d20.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d3.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d4.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d6.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d8.png
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CoreCompileInputs.cache
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Plugin.SimpleAudioPlayer.pri.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885022160000000.json
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d10.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d10.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d100.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d12.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d2.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d20.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d3.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d4.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d6.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-blue-1d8.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d100.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d12.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d2.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d20.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d3.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d4.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d6.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-orange-1d8.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d10.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d100.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d12.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d2.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d20.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d3.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d4.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d6.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Images\dice-pink-1d8.png
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\App.xbf
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\MainPage.xbf
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.xr.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.exe
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\resources.pri
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\AppxManifest.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Core\DiceRoller.UWP.exe
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.UWP.build.appxrecipe
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\System.Runtime.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.dll
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\DiceRoller.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csprojAssemblyReference.cache
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.i.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.g.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.g.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xaml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xaml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xaml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\App.xbf
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MainPage.xbf
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\XamlC.stamp
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.csproj.CopyComplete
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Plugin.SimpleAudioPlayer.pri.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.exe
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\DiceRoller.UWP.pdb
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160319180000000.json
+D:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884914160000000.json
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160319180000000.json
+G:\tafe2020\mobile apps\DiceRoller - Copy\DiceRoller\DiceRoller.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636884914160000000.json
